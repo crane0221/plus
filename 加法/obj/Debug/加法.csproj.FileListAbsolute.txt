@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\加法\加法\bin\Debug\加法.exe.config
+C:\Users\user\Desktop\加法\加法\bin\Debug\加法.exe
+C:\Users\user\Desktop\加法\加法\bin\Debug\加法.pdb
+C:\Users\user\Desktop\加法\加法\obj\Debug\加法.csprojAssemblyReference.cache
+C:\Users\user\Desktop\加法\加法\obj\Debug\加法.Form1.resources
+C:\Users\user\Desktop\加法\加法\obj\Debug\加法.Properties.Resources.resources
+C:\Users\user\Desktop\加法\加法\obj\Debug\加法.csproj.GenerateResource.cache
+C:\Users\user\Desktop\加法\加法\obj\Debug\加法.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\加法\加法\obj\Debug\加法.exe
+C:\Users\user\Desktop\加法\加法\obj\Debug\加法.pdb
